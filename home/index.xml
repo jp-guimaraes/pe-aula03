@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Aula 03</title>
+    <link>https://jp-guimaraes.github.io/pe-aula03/home/</link>
+    <description>Recent content in Homes on Aula 03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/pe-aula03/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula03/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula03/home/intro/</guid>
+      <description>Relembrando  Leis de Ohm Cargas resistivas  Resistência: Capacidade de um corpo (característica) de se opor a passagem de corrente elétrica. Simule!
+   Lei de Ohm: Relação matemática entre tensão, corrente e resistência, V = R*I; Simule!
+   Resistores em série  O que caracteriza a ligação em série?
+ Mesma corrente!
+ Matematicamente&amp;hellip;
+Req = R1 + R2 + &amp;hellip; + Rn
+ Resistores em paralelo  O que caracteriza a ligação em paralelo?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula03/home/tinkercad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula03/home/tinkercad/</guid>
+      <description> Tinkercad Apresentação do simulador
+Acesse clicando aqui e crie uma conta.
+ Circuito 1 link
+ Circuito 2 link
+ Circuito 3 link
+ Circuito 4 link
+ Circuito 5 link
+ Circuito 6 link
+ Circuito 7 link
+ Associação de resistores Resistores em série
+Resistores em paralelo
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula03/home/kirchhoff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula03/home/kirchhoff/</guid>
+      <description> Leis de Kirchhoff  Para entender a lei de Kirschhoff
+  Conceito de nó
+  Conceito de malha
+   nó   &amp;ldquo;A soma algébrica das correntes em um nó em qualquer instante é zero&amp;rdquo;
+  malha   &amp;ldquo;A soma algébrica das tensões ao longo de uma malha em qualquer instante é zero&amp;rdquo;
+  </description>
+    </item>
+    
+  </channel>
+</rss>
